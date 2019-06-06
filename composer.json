@@ -1,5 +1,5 @@
 {
-    "name": "leo/akeneo-asset-code-generation",
+    "name": "thibaudatl/akeneo-asset-code-generation",
     "description": "Dependency for Akeneo version 3.0.X allowing asset code generation on the fly when uploading assets; ensuring no asset will be deleted when uploading asset with same name.",
     "type": "Akeneo dependency",
     "license": "Akeneo",
