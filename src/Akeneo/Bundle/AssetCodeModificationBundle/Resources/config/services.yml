@@ -1,0 +1,2 @@
+parameters:
+    pimee_product_asset.controller.rest.mass_upload.class: Akeneo\Bundle\AssetCodeModificationBundle\Controller\Rest\AssetCodeModificationMassUploadController

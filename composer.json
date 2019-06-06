@@ -1,0 +1,21 @@
+{
+    "name": "leo/akeneo-asset-code-generation",
+    "description": "Dependency for Akeneo version 3.0.X allowing asset code generation on the fly when uploading assets; ensuring no asset will be deleted when uploading asset with same name.",
+    "type": "Akeneo dependency",
+    "license": "Akeneo",
+    "authors": [
+        {
+            "name": "leo thibaudat",
+            "email": "leo.thibaudat@akeneo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":  ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
